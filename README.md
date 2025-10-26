@@ -77,6 +77,9 @@
 
 ### 💭 *"Anything that can go wrong will go wrong"* – Murphy's Law
 
+</div>
+<br/>
+
 ## 🎯 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=YizusCZ&color=blueviolet&style=for-the-badge)
